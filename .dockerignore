@@ -1,0 +1,6 @@
+.git
+docs
+docs/**
+node_modules
+dist
+coverage
